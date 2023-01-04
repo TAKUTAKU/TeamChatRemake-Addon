@@ -22,5 +22,4 @@ PC　右のReleaseから<br>
 
 # Version Log
 
-・0.0.1　Minecraft 1.18.12 Youtubeにて作成<br>
-・0.0.2　Minecraft 1.19.40 に対応<br>
+・0.0.1　Minecraft 1.19.51 Youtubeにて作成<br>
