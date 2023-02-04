@@ -10,7 +10,7 @@
 　Remove from teamでチームから外す<br>
  
 細かい使い方はYoutube
-https://www.youtube.com/watch?v=IEqRbZzCT9o
+https://youtu.be/IAN-Z7migV8
 
 # ダウンロード
 
