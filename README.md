@@ -9,8 +9,7 @@
 　Add to teamでチームに追加<br>
 　Remove from teamでチームから外す<br>
  
-細かい使い方はYoutube
-https://youtu.be/IAN-Z7migV8
+細かい使い方はYoutube　(https://www.youtube.com/watch?v=IEqRbZzCT9o)
 
 # ダウンロード
 
